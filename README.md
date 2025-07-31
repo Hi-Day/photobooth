@@ -2,6 +2,8 @@
 
 A modern, interactive photobooth application built with Next.js, featuring real-time camera capture, multiple photo modes, filters, and automatic collage generation.
 
+![PhotoBooth Demo](./media/demo.png)
+
 ## ✨ Features
 
 ### 🎯 **Core Functionality**
